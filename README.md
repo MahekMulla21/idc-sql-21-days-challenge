@@ -11,7 +11,8 @@ I'm participating in the **21 Days SQL Challenge** by **Indian Data Club** to st
 | Day | Topic | Status |
 |-----|--------|---------|
 | 01 | SELECT & Basics | ✅ Completed |
-| 02 | ... | ⏳ Coming Soon |
+| 02 | Filtering Data with WHERE Clause|✅ Completed  |
+| 03 | ... | Coming Soon | 
 
 ## 🧠 Concepts
 `SELECT`, `WHERE`, `JOIN`, `GROUP BY`, `SUBQUERY`, `VIEW`, `INSERT`, `UPDATE`, `DELETE`
