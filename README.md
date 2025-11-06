@@ -13,7 +13,8 @@ I'm participating in the **21 Days SQL Challenge** by **Indian Data Club** to st
 | 01 | SELECT & Basics | ✅ Completed |
 | 02 | Filtering Data with WHERE Clause|✅ Completed  |
 | 03 | ORDER BY, ASC/ DESC, sorting| ✅ Completed  | 
-| 04 | ... | Coming soon.. |
+| 04 | Limit OFFSET pagination concept |✅ Completed |
+| 05 | .... | Coming soon.... |
 
 ## 🧠 Concepts
 `SELECT`, `WHERE`, `JOIN`, `GROUP BY`, `SUBQUERY`, `VIEW`, `INSERT`, `UPDATE`, `DELETE`
