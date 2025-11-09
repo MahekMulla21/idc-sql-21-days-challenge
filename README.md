@@ -15,7 +15,8 @@ I'm participating in the **21 Days SQL Challenge** by **Indian Data Club** to st
 | 03 | ORDER BY, ASC/ DESC, sorting| ✅ Completed  | 
 | 04 | Limit OFFSET pagination concept |✅ Completed |
 | 05 | COUNT SUM AVG MIN MAX |✅ Completed |
-| 06 | ..... | Coming soon... |
+| 06 | GROUP BY, Aggregating by categories|✅ Completed |
+| 07 | ..... | Coming soon.... |
 
 ## 🧠 Concepts
 `SELECT`, `WHERE`, `JOIN`, `GROUP BY`, `SUBQUERY`, `VIEW`, `INSERT`, `UPDATE`, `DELETE`
