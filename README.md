@@ -17,7 +17,8 @@ I'm participating in the **21 Days SQL Challenge** by **Indian Data Club** to st
 | 05 | COUNT SUM AVG MIN MAX |✅ Completed |
 | 06 | GROUP BY, Aggregating by categories|✅ Completed |
 | 07 | Having clause, filtering aggregated results |✅Completed |
-| 08 | ........ | Coming soon.. |
+| 08 | Upper, Lower, Length, Concat, Substring|✅Completed |
+| 09 | ...... | Coming soon.. |
 
 ## 🧠 Concepts
 `SELECT`, `WHERE`, `JOIN`, `GROUP BY`, `SUBQUERY`, `VIEW`, `INSERT`, `UPDATE`, `DELETE`
