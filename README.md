@@ -19,7 +19,8 @@ I'm participating in the **21 Days SQL Challenge** by **Indian Data Club** to st
 | 07 | Having clause, filtering aggregated results |✅Completed |
 | 08 | Upper, Lower, Length, Concat, Substring|✅Completed |
 | 09 | Date functions, Date arithmetic, EXTRACT |✅Complated |
-| 10 | ..... | Coming soon... |
+| 10 | CASE WHEN, conditional logic, derived columns |✅ Completed |
+| 11 | ..... | Coming soon.. |
 
 ## 🧠 Concepts
 `SELECT`, `WHERE`, `JOIN`, `GROUP BY`, `SUBQUERY`, `VIEW`, `INSERT`, `UPDATE`, `DELETE`
