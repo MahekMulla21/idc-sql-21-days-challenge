@@ -22,7 +22,8 @@ I'm participating in the **21 Days SQL Challenge** by **Indian Data Club** to st
 | 10 | CASE WHEN, conditional logic, derived columns |✅ Completed |
 | 11 | DISTINCT, removing duplicates, unique values |✅ Completed |
 | 12 | NULL Handling, IS NULL, IS NOT NULL, COALESCE |✅ Completed |
-| 13 | ........ | Coming soon... |
+| 13 | Inner Join, joining two tables, relationship understanding |✅ Completed |
+| 14 | .......... | Coming soon... |
 
 ## 🧠 Concepts
 `SELECT`, `WHERE`, `JOIN`, `GROUP BY`, `SUBQUERY`, `VIEW`, `INSERT`, `UPDATE`, `DELETE`
