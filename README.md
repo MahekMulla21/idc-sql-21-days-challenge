@@ -23,7 +23,8 @@ I'm participating in the **21 Days SQL Challenge** by **Indian Data Club** to st
 | 11 | DISTINCT, removing duplicates, unique values |✅ Completed |
 | 12 | NULL Handling, IS NULL, IS NOT NULL, COALESCE |✅ Completed |
 | 13 | Inner Join, joining two tables, relationship understanding |✅ Completed |
-| 14 | .......... | Coming soon... |
+| 14 | Left Join, Right Join, Including unmachted records |✅ Completed |
+| 15 | ...... | Coming soon.. |
 
 ## 🧠 Concepts
 `SELECT`, `WHERE`, `JOIN`, `GROUP BY`, `SUBQUERY`, `VIEW`, `INSERT`, `UPDATE`, `DELETE`
