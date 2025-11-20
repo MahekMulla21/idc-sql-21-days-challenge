@@ -25,6 +25,7 @@ I'm participating in the **21 Days SQL Challenge** by **Indian Data Club** to st
 | 13 | Inner Join, joining two tables, relationship understanding |✅ Completed |
 | 14 | Left Join, Right Join, Including unmachted records |✅ Completed |
 | 15 | Joining more than two tables, Complex Relationships |✅ Completed |
+| .. | Mini Project |✅ Completed |
 | 16 | ..... | Coming Soon.. |
 
 ## 🧠 Concepts
