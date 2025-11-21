@@ -26,7 +26,8 @@ I'm participating in the **21 Days SQL Challenge** by **Indian Data Club** to st
 | 14 | Left Join, Right Join, Including unmachted records |✅ Completed |
 | 15 | Joining more than two tables, Complex Relationships |✅ Completed |
 | .. | Mini Project |✅ Completed |
-| 16 | ..... | Coming Soon.. |
+| 16 | Subquries in WHERE, nested quries, filtering with subqueries |✅ Completed |
+| 17 | .... | Coming Soon... |
 
 ## 🧠 Concepts
 `SELECT`, `WHERE`, `JOIN`, `GROUP BY`, `SUBQUERY`, `VIEW`, `INSERT`, `UPDATE`, `DELETE`
