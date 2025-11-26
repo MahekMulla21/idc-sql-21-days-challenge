@@ -30,8 +30,8 @@ I'm participating in the **21 Days SQL Challenge** by **Indian Data Club** to st
 | 17 | Subquries in SELECT, derived table, inline views |✅ Completed |
 | 18 | Union, Union all, Combining results sets |✅ Completed  |
 | 19 | ROW_NUMBER(), RANK(), DENSE_RANK(), OVER clause |✅ Completed |
-| 20 |.........  |Coming Soon..... |
-
+| 20 | SUM() OVER, AVG() OVER, running totals, moving avereages  |✅ Completed |
+| 21 | ......... | Coming Soon... |
 ## 🧠 Concepts
 `SELECT`, `WHERE`, `JOIN`, `GROUP BY`, `SUBQUERY`, `VIEW`, `INSERT`, `UPDATE`, `DELETE`
 
